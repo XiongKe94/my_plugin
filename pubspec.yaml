@@ -1,7 +1,7 @@
 name: my_plugin
 description: "A new Flutter project."
 version: 0.0.2
-homepage: ''
+homepage: 'https://github.com/XiongKe94/my_plugin'
 
 environment:
   sdk: ^3.5.2
